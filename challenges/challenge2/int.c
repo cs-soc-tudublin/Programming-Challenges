@@ -1,0 +1,13 @@
+/* CS++
+ * PROGRAMMING CHALLENGE 2: INTERMEDIATE
+ * GIVEN AN ARRAY OF INTEGERS, RETURN THE LONGEST SEQUENCE OF CONSECUTIVE NUMBERS
+ *
+ * EXAMPLE:
+ *
+ * INPUT = [1,2,7,8,9,-1,0,2]
+ * RESULT = [7,8,9]
+ */
+
+int *longestSeq(int input[],int len) 
+{
+}
