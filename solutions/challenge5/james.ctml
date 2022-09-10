@@ -1,0 +1,130 @@
+(html)
+{
+    (head)
+    {
+        (title)
+        {
+            David Stan Website
+        }
+
+        (style)
+        {
+            body
+            \{
+                text-align: center;
+                font-family:'Brush Script MT', cursive;
+                background-color:pink;
+                font-size:26px;
+            \}
+
+            nav
+            \{
+                padding:10px;
+                margin: 10px;
+                background-color:violet;
+                
+            \}
+
+            a
+            \{
+                padding: 10px;
+            \}
+
+            hr
+            \{
+                background-color:violet;
+                border:none;
+                height:1px;
+                width: 500px;
+            \}
+
+            footer
+            \{
+                background-color:violet;
+            \}
+        }
+    }
+
+    (body)
+    {
+        
+        (h1 style="color:red")
+        {
+            ❤ David Stan Website ❤
+        }
+
+        (nav)
+        {
+            (a href="#about")
+            {
+                About
+            }
+
+            (a href="#accolades")
+            {
+                David's Accolades
+            }
+        }
+
+
+        (section id="about")
+        {
+            (img src="https://avatars.githubusercontent.com/u/98290029?v=4" width="400px"){}
+
+            (h2)
+            {
+                About
+            }
+
+            (p)
+            {
+                This site is dedicated to the mysterious & illustrious figure David Lynch.
+            }
+
+        }
+
+        (hr){}
+    
+        (section id="accolades")
+        {
+            (article)
+            {
+                (h2)
+                {
+                    David's Accolades
+                }
+
+                (ul style="list-style-type: none;")
+                {
+                    (li)
+                    {
+                        MAde CTML!!! 👀👀👀
+                    }
+
+                    (li)
+                    {
+                        Ultrakill master 🔫🔫
+                    }
+
+                    (li)
+                    {
+                        linux 🐧
+                    }
+
+                    (li)
+                    {
+                        bag getter 💰
+                    }
+                }
+            }
+        }
+
+        (footer)
+        {
+            (h3)
+            {
+                Site written in CTML by davidfan544
+            }
+        }
+    }
+}
